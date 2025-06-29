@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshnema
 - 👀 I’m interested in ...DEVELOPMENT 
 - 🌱 I’m currently learning ..JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...YOTUBE 
+- 💞️ I’m looking to collaborate on ...YOUTUBE 
 - 📫 How to reach me ...SEARCH ME HARSHNEMA ONN LINKEDIN
 - 😄 Pronouns: ...AUTOPHILLIC
 - ⚡ Fun fact: ... CODING+CHEIF
