@@ -55,7 +55,7 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://leetcode.com/your-leetcode-id/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="https://github.com/HarshNema"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://github.com/HarshNema456"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
 </p>
 
 ---
