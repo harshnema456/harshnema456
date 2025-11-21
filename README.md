@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Passionate C++ Developer | Java Spring Boot Learner | Building for Gen AI</b><br>
-  Solving one problem at a time — from data structures to intelligent systems 🚀
+  Solving one problem at a time — from data structures to intelligent systems 
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages:**  
 `C++` · `Java` · `JavaScript` · `Python` (basics)
@@ -43,13 +43,13 @@
 
 ### 🏆 Achievements
 
-- 🥇 **300+ DSA problems** solved on [LeetCode](https://leetcode.com/)  
-- 🚀 Currently building full-stack skills (Java Spring Boot + JS for Gen AI)  
-- 💡 Exploring **AI-assisted programming** for next-gen intelligent systems  
+-  **300+ DSA problems** solved on [LeetCode](https://leetcode.com/)  
+-  Currently building full-stack skills (Java Spring Boot + JS for Gen AI)  
+-  Exploring **Gen ai ** for next-gen intelligent systems  
 
 ---
 
-### 🌍 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="mailto:harshnema456@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
@@ -65,12 +65,12 @@
 #### 🧠 **Astro-Ignis**
 AI-powered mission assistant for autonomous spacecraft decision support  
 **Tech:** javascript · Node.js · React · Trained models ~ using Javascript   
-[🔗 View Repo](https://github.com/HarshNema/Astro-Ignis)
+[🔗 View Repo](https://github.com/HarshNema456/Astro-Ignis)
 
 #### 🌍 **Interactive Earth**
 WebGL-based real-time planetary visualization interface  
 **Tech:** React · Three.js · OpenAI APIs   
-[🔗 View Repo](https://github.com/HarshNema/satellite collesion)
+[🔗 View Repo](https://github.com/HarshNema456/satellite collesion)
 
 ---
 
