@@ -64,13 +64,13 @@
 
 #### 🧠 **Astro-Ignis**
 AI-powered mission assistant for autonomous spacecraft decision support  
-**Tech:** Python · Node.js · React · AI APIs  
+**Tech:** javascript · Node.js · React · Trained models ~ using Javascript   
 [🔗 View Repo](https://github.com/HarshNema/Astro-Ignis)
 
 #### 🌍 **Interactive Earth**
 WebGL-based real-time planetary visualization interface  
-**Tech:** React · Three.js · OpenAI APIs  
-[🔗 View Repo](https://github.com/HarshNema/Interactive-Earth)
+**Tech:** React · Three.js · OpenAI APIs   
+[🔗 View Repo](https://github.com/HarshNema/satellite collesion)
 
 ---
 
