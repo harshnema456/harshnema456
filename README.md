@@ -70,7 +70,7 @@ AI-powered mission assistant for autonomous spacecraft decision support
 #### 🌍 **Interactive Earth**
 WebGL-based real-time planetary visualization interface  
 **Tech:** React · Three.js · OpenAI APIs   
-[🔗 View Repo](https://github.com/HarshNema456/satellite collesion)
+[🔗 View Repo](https://github.com/HarshNema456./satellite collesion)
 
 ---
 
