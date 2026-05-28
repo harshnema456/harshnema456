@@ -1,301 +1,145 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI/ML GitHub Profile Improvement</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }body {
-  background: #0f172a;
-  color: #e2e8f0;
-  line-height: 1.6;
-}
+ <div align="center">⚡ HARSH NEMA ⚡
 
-header {
-  background: linear-gradient(135deg, #1e293b, #0f172a);
-  padding: 60px 20px;
-  text-align: center;
-  border-bottom: 1px solid #334155;
-}
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Deep+Learning+Researcher;Agentic+AI+Developer;Generative+AI+Builder;Open+Source+Contributor" /><img src="https://user-images.githubusercontent.com/74038190/216656967-3d7c9f9f-cd5c-4f9f-bb6f-7c3d3fd8b7f8.gif" width="100%" /></div>---
 
-header h1 {
-  font-size: 3rem;
-  color: #38bdf8;
-}
+🧠 About Me
 
-header p {
-  margin-top: 10px;
-  font-size: 1.1rem;
-  color: #cbd5e1;
-}
+class HarshNema:
 
-.container {
-  width: 90%;
-  max-width: 1200px;
-  margin: 40px auto;
-}
+    def __init__(self):
+        self.role = "AI/ML Developer"
+        self.interests = [
+            "Deep Learning",
+            "Agentic AI",
+            "Large Language Models",
+            "Computer Vision",
+            "NLP",
+            "Research"
+        ]
 
-.section-title {
-  font-size: 2rem;
-  margin-bottom: 20px;
-  color: #38bdf8;
-  border-left: 5px solid #38bdf8;
-  padding-left: 15px;
-}
+    def current_focus(self):
+        return [
+            "Building AI Agents",
+            "Research Projects",
+            "LLM Applications",
+            "Real-world AI Systems"
+        ]
 
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
-  margin-bottom: 40px;
-}
+me = HarshNema()
 
-.card {
-  background: #1e293b;
-  padding: 25px;
-  border-radius: 16px;
-  transition: 0.3s ease;
-  border: 1px solid #334155;
-}
+---
 
-.card:hover {
-  transform: translateY(-6px);
-  border-color: #38bdf8;
-  box-shadow: 0 8px 25px rgba(56, 189, 248, 0.2);
-}
+🚀 Tech Arsenal
 
-.card h3 {
-  margin-bottom: 12px;
-  color: #f8fafc;
-}
+<div align="center">👨‍💻 Languages
 
-.card p {
-  color: #cbd5e1;
-  font-size: 0.95rem;
-}
+"Python" (https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+"C++" (https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
+"JavaScript" (https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 
-.skills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 20px;
-}
+---
 
-.skill {
-  background: #38bdf8;
-  color: #0f172a;
-  padding: 8px 14px;
-  border-radius: 30px;
-  font-weight: 600;
-  font-size: 0.85rem;
-}
+🤖 AI / ML / GenAI
 
-.roadmap {
-  background: #1e293b;
-  padding: 30px;
-  border-radius: 16px;
-  margin-bottom: 40px;
-  border: 1px solid #334155;
-}
+"TensorFlow" (https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
+"PyTorch" (https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
+"Scikit-Learn" (https://img.shields.io/badge/ScikitLearn-111827?style=for-the-badge&logo=scikitlearn)
+"OpenCV" (https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv)
+"LangChain" (https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
+"HuggingFace" (https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface)
 
-.roadmap ul {
-  padding-left: 20px;
-  margin-top: 15px;
-}
+---
 
-.roadmap li {
-  margin-bottom: 12px;
-  color: #cbd5e1;
-}
+🌐 Development
 
-.github-box {
-  background: linear-gradient(135deg, #2563eb, #38bdf8);
-  padding: 35px;
-  border-radius: 20px;
-  text-align: center;
-  color: white;
-  margin-bottom: 40px;
-}
+"React" (https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+"FastAPI" (https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
+"Docker" (https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+"Git" (https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 
-.github-box h2 {
-  margin-bottom: 15px;
-  font-size: 2rem;
-}
+</div>---
 
-.github-box p {
-  margin-bottom: 20px;
-  font-size: 1rem;
-}
+🔥 Featured AI Projects
 
-.btn {
-  display: inline-block;
-  background: white;
-  color: #2563eb;
-  padding: 12px 24px;
-  border-radius: 10px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: 0.3s;
-}
+<table>
+<tr>
+<td width="50%">🏏 AI Cricket Analytics
 
-.btn:hover {
-  background: #dbeafe;
-}
+✔ Match Prediction
+✔ Player Performance Analysis
+✔ ML-based Insights
+✔ Interactive Dashboard
 
-footer {
-  text-align: center;
-  padding: 20px;
-  border-top: 1px solid #334155;
-  color: #94a3b8;
-  margin-top: 40px;
-}
+</td><td width="50%">🤖 Autonomous AI Agent
 
-code {
-  color: #38bdf8;
-  font-size: 0.9rem;
-}
+✔ Tool Calling
+✔ Memory System
+✔ LLM Workflows
+✔ Agentic AI Architecture
 
-  </style>
-</head>
-<body>  <header>
-    <h1>AI/ML GitHub Profile</h1>
-    <p>Build a Strong GitHub Portfolio for AI, Machine Learning & Agentic AI</p>
-  </header>  <div class="container"><section>
-  <h2 class="section-title">Profile Overview</h2>
-  <div class="card-grid">
-    <div class="card">
-      <h3>Professional Bio</h3>
-      <p>
-        Passionate AI/ML Developer focused on Deep Learning, NLP, Computer Vision,
-        Agentic AI, and Research-Oriented Projects.
-      </p>
-    </div>
+</td>
+</tr><tr>
+<td width="50%">🧠 AI Resume Screening
 
-    <div class="card">
-      <h3>Target Role</h3>
-      <p>
-        AI/ML Engineer • Research Intern • Generative AI Developer • Data Scientist
-      </p>
-    </div>
+✔ NLP Pipeline
+✔ Semantic Search
+✔ Embeddings
+✔ Candidate Ranking
 
-    <div class="card">
-      <h3>GitHub Focus</h3>
-      <p>
-        Build production-level AI projects, research repositories,
-        open-source contributions, and deployment-ready ML applications.
-      </p>
-    </div>
-  </div>
-</section>
+</td><td width="50%">📈 LSTM Stock Prediction
 
-<section>
-  <h2 class="section-title">Recommended AI/ML Projects</h2>
-  <div class="card-grid">
+✔ Deep Learning Forecasting
+✔ Financial Analytics
+✔ Time-Series Modeling
+✔ Visualization Dashboard
 
-    <div class="card">
-      <h3>AI Cricket Analytics Platform</h3>
-      <p>
-        Build an ML-powered cricket analytics system using player statistics,
-        match predictions, and AI-generated insights.
-      </p>
-    </div>
+</td>
+</tr>
+</table>---
 
-    <div class="card">
-      <h3>Agentic AI Assistant</h3>
-      <p>
-        Create an autonomous AI assistant using LLMs, memory systems,
-        tool calling, and workflow automation.
-      </p>
-    </div>
+📊 GitHub Analytics
 
-    <div class="card">
-      <h3>Resume Screening System</h3>
-      <p>
-        NLP-based resume ranking system using embeddings,
-        semantic search, and candidate scoring.
-      </p>
-    </div>
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/></div>---
 
-    <div class="card">
-      <h3>Medical Image Detection</h3>
-      <p>
-        Deep learning CNN project for disease detection using medical imaging datasets.
-      </p>
-    </div>
+🌌 Contribution Graph
 
-    <div class="card">
-      <h3>AI Research Paper Summarizer</h3>
-      <p>
-        Transformer-based application that summarizes research papers automatically.
-      </p>
-    </div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/></div>---
 
-    <div class="card">
-      <h3>Stock Prediction Dashboard</h3>
-      <p>
-        LSTM-based stock forecasting web app with visual analytics and predictions.
-      </p>
-    </div>
+🧬 Research & Interests
 
-  </div>
-</section>
+- 🧠 Large Language Models (LLMs)
+- 🤖 Agentic AI Systems
+- 🔬 AI Research & Publications
+- 📚 Deep Learning Architectures
+- 🎯 Reinforcement Learning
+- 👁 Computer Vision
+- 💬 Natural Language Processing
+- ⚡ Generative AI Applications
 
-<section>
-  <h2 class="section-title">Skills to Showcase</h2>
+---
 
-  <div class="skills">
-    <div class="skill">Python</div>
-    <div class="skill">Machine Learning</div>
-    <div class="skill">Deep Learning</div>
-    <div class="skill">TensorFlow</div>
-    <div class="skill">PyTorch</div>
-    <div class="skill">Scikit-Learn</div>
-    <div class="skill">NLP</div>
-    <div class="skill">Computer Vision</div>
-    <div class="skill">LLMs</div>
-    <div class="skill">Agentic AI</div>
-    <div class="skill">LangChain</div>
-    <div class="skill">RAG</div>
-    <div class="skill">Data Science</div>
-    <div class="skill">Flask</div>
-    <div class="skill">FastAPI</div>
-    <div class="skill">React</div>
-    <div class="skill">Git</div>
-    <div class="skill">Docker</div>
-  </div>
-</section>
+🏆 Achievements Goals
 
-<section class="roadmap">
-  <h2 class="section-title">GitHub Improvement Roadmap</h2>
+✔ Build impactful AI products
+✔ Publish AI research papers
+✔ Contribute to Open Source AI
+✔ Secure IIT/NIT Research Internship
+✔ Become an AI Systems Engineer
 
-  <ul>
-    <li>✔ Add a professional GitHub README profile.</li>
-    <li>✔ Pin top 6 AI/ML repositories.</li>
-    <li>✔ Add detailed project documentation and architecture diagrams.</li>
-    <li>✔ Upload datasets, notebooks, and trained models.</li>
-    <li>✔ Add deployment links using Vercel, HuggingFace, or Streamlit.</li>
-    <li>✔ Maintain contribution streak and open-source activity.</li>
-    <li>✔ Write technical blogs linked with repositories.</li>
-    <li>✔ Add research-oriented projects for IIT/NIT internship applications.</li>
-  </ul>
-</section>
+---
 
-<section class="github-box">
-  <h2>Suggested GitHub README Header</h2>
-  <p>
-    <code>
-      AI/ML Developer | Deep Learning | NLP | Agentic AI | Research Enthusiast
-    </code>
-  </p>
-  <a href="#" class="btn">Build Your AI Portfolio</a>
-</section>
+🌐 Connect With Me
 
-  </div>  <footer>
-    Designed for AI/ML Students & Research Internship Applications • 2026
-  </footer></body>
-</html>
+<div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (YOUR_LINKEDIN)
+
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (YOUR_GITHUB)
+
+""Portfolio" (https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)" (YOUR_PORTFOLIO)
+
+""Gmail" (https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR_EMAIL)
+
+</div>---
+
+<div align="center">⚡ “AI is not the future. It is the present being engineered.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/></div>
